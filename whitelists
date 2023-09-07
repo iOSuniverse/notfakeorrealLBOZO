@@ -1,7 +1,7 @@
 local whitelistUserIDs = {
     -- Add User IDs of whitelisted players here
     4791243291,  -- Replace with actual User IDs
-    987654321
+    3563957030
 }
 
 game.Players.PlayerAdded:Connect(function(player)
